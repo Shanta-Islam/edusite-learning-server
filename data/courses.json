@@ -149,7 +149,7 @@
         }
     },
     {
-        "course_id": "07",
+        "course_id": "07", 
         "course_name": "Server-side Development with NodeJS, Express and MongoDB",
         "course_img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/c3/2ab0304cf611e7a143498f0a05f3b8/Logo.png",
         "course_skills": "Mongodb, Operating Systems, Front And Backend",
@@ -157,12 +157,12 @@
         "course_rating": "4.7",
         "course_discription": "This course deals with all things server-side. We base the entire course around the NodeJS platform. We start with a brief overview of the Web protocols: HTTP and HTTPS. We examine NodeJS and NodeJS modules: Express for building web servers. On the database side, we review basic CRUD operations, NoSQL databases, in particular MongoDB and Mongoose for accessing MongoDB from NodeJS. We examine the REST concepts and building a RESTful API. We touch upon authentication and security. Finally we review backend as a service (BaaS) approaches, including mobile BaaS, both open-source and commercial BaaS services. At the end of this course, you will be able to: Demonstrate an understanding of server-side concepts, CRUD and REST, Build and configure a backend server using NodeJS framework, Build a RESTful API for the front-end to access backend services",
         "skill_gain": [
-            "Authentication",
+            "Authentication", 
             "Node.Js",
             "Mongodb",
             "Express.Js"
         ],
-        "course_instructor": {
+        "course_instructor": {   
             "name": "Jogesh K. Muppala",
             "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c5/b6cf60386611e5a935a59c4b6594da/muppala-small.jpg",
             "designation": "Associate Professor",
