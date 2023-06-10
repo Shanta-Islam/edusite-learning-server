@@ -12,7 +12,7 @@ app.get('/course/:id', (req, res) => {
     const id = req.params.id;
     const course_details = courses.find(course => course.course_id === id);
     if (course_details == null) {
-        res.send({ "error": "No Data" });
+        res.send({ "error": "No Data Found" });
     }
     else {
         res.send(course_details);
