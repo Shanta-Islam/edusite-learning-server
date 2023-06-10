@@ -5,6 +5,9 @@ app.get('/', (req, res) => {
     res.send('edusite learning Course API Running');
 })
 
+app.get('/courses', (req, res) => {
+    res.send(courses);
+})
 app.listen(port, () => {
     console.log(`edusite API Running In PORT : ${port}`);
 })
